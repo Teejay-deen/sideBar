@@ -28,7 +28,7 @@ const Sidebar = () => {
                 }
             >
                 <img src={Icon} alt="icon" className="title" />
-                <h2 className="title">Monnify </h2>
+                <h2 className="title">Monnify. </h2>
             </div>
             <div
                 className={
